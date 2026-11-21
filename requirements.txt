@@ -1,0 +1,6 @@
+# Security: websockets>=17.4 resolves GHSA-6m5v-9gmr-5665
+websockets>=17.4
+# Security: setuptools>=78.1.1 resolves CVE-2024-6345, CVE-2025-47273
+setuptools>=78.1.1
+# Security: pip>=26.2.1 resolves CVE-2025-8869, CVE-2026-1703, CVE-2026-3219, CVE-2026-6357, CVE-2026-8643, CVE-2026-13346
+pip>=26.2.1
